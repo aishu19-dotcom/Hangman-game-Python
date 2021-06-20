@@ -1,4 +1,4 @@
-# Hangman-A-Python-Project
+# Hangman Game
 
 Hello Everyone, 
 
