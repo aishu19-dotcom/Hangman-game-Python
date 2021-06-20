@@ -2,7 +2,6 @@ import time
 name = input("What is your name? ")
 print("Hello, " + name, "Time to play hangman!")
 print("")
-time.sleep(1)
 print("Start guessing...\n\nClue: Most of the people in TamilNadu love this food. ")
 time.sleep(0.5)
 word = "Briyani"
